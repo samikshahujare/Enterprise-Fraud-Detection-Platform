@@ -167,7 +167,6 @@ Fraud datasets are extremely skewed. Techniques like SMOTE help the model learn 
 
 ### Why FastAPI?
 
-> Shivam:
 * Fast and lightweight
 * Automatic OpenAPI documentation
 * Built-in request validation
