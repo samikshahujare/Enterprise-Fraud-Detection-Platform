@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection API
+# Enterprise Fraud Detection Platform
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
