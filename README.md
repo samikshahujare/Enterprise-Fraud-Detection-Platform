@@ -6,7 +6,6 @@
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED.svg)](https://www.docker.com/)
 [![uv](https://img.shields.io/badge/uv-Dependency%20Manager-purple.svg)](https://github.com/astral-sh/uv)
 
-
 # 1. Problem Description
 
 Credit card fraud is a major issue for financial institutions. Fraudulent transactions represent only a very small portion of total transactions, but they can result in significant financial losses.
