@@ -1,10 +1,10 @@
-# Enterprise Fraud Detection Platform
+# VectraGuard
+> Production-Ready Microservice & Anomaly Detection Pipeline for High-Dimensional Transaction Data
 
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
-![Docker](https://img.shields.io/badge/Docker-ready-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688.svg)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED.svg)](https://www.docker.com/)
+[![uv](https://img.shields.io/badge/uv-Dependency%20Manager-purple.svg)](https://github.com/astral-sh/uv)
 
 
 # 1. Problem Description
